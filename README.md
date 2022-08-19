@@ -2,12 +2,10 @@
 ### 👋안녕하세요 미래의 프론트엔드 개발자 YunCow 입니다.
 <br/>
 
-# Blog 
-http://img.shields.io/badge/-개발기록블로그👨‍💻-000000?style=for-the-badge&logo=Tistory&link=https://frontend-development.tistory.com/
+### Blog 🎞
 
-https://img.shields.io/badge/BLOG-%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EB%A1%9D%20%EB%B8%94%EB%A1%9C%EA%B7%B8-lightgrey
-
-<br/>
+<a href="https://frontend-development.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<br/><br/>
 
 # Stack 📚
 <br/>
@@ -25,6 +23,12 @@ https://img.shields.io/badge/BLOG-%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EB%A1%9D%20%EB%
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
+  <br></br>
+  
+  <h3>Study~ing</h3>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+  <img src="https://img.shields.io/badge/Recoil-217DC6?style=for-the-badge&logo=Recoil&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 </div>
 
 
