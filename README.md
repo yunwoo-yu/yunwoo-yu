@@ -2,10 +2,11 @@
 ------  
   
   
-<div align=center>
-## 👋 hi, FE 개발자 준비중인 YunCow입니다.
-  
+
+# 👋 hi, FE 개발자 준비중인 YunCow입니다.
+{: .text-center }
+
 ![iOS badge](https://img.shields.io/badge/-html-orange)
 ![iOS badge]
 ![iOS badge]
-</div>
+
