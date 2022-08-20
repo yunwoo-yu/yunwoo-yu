@@ -48,7 +48,7 @@
 
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinsangeun)](https://github.com/shinsangeun/shinsangeun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunwoo-yu)](https://github.com/yunwoo-yu/yunwoo-yu)
 
 </div>
 
