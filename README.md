@@ -50,11 +50,12 @@
 
 <br/>
 
-![yunwoo-yu's github stats](https://github-readme-stats.vercel.app/api?username=yunwoo-yu&show_icons=true)
 
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunwoo-yu)](https://github.com/yunwoo-yu/yunwoo-yu)
+![yunwoo-yu's github stats](https://github-readme-stats.vercel.app/api?username=yunwoo-yu&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunwoo-yu&layout=compact&exclude_repo=react-query,FrontendSchool_3)](https://github.com/yunwoo-yu/)
 
 </div>
 
@@ -67,3 +68,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunwoo-yu&count_bg=%23B174EB&title_bg=%23555555&icon=googlekeep.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
