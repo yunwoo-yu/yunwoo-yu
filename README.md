@@ -3,7 +3,7 @@
 
 <div align=center>
 
-### 👋 안녕하세요 미래의 프론트엔드 개발자 유윤우 입니다.
+### 안녕하세요 👋 주니어 프론트엔드 개발자 유윤우 입니다. 😄
 
  email ✉ : skypnal12@gmail.com
 
@@ -57,10 +57,10 @@
 
 
 <div align=center>
-
-![yunwoo-yu's github stats](https://github-readme-stats.vercel.app/api?username=yunwoo-yu&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunwoo-yu&layout=compact&exclude_repo=react-query,FrontendSchool_3)](https://github.com/yunwoo-yu/)
+ 
+![yunwoo-yu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yunwoo-yu&&show_icons=true&theme=dark)
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skypnal12)](https://solved.ac/skypnal12)
 
 </div>
 
