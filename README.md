@@ -6,7 +6,9 @@
 
 **i'm yunwoo. I work as a front-end software engineer. Below is my experience.**
 
-- **Salin** - I-Lab Front-End Software Engineer (2023.08 ~ ing)
+- **Salin** - I-Lab Front-End Software Engineer (2023.08 ~ 2025.08)
+
+- **항해 플러스 프론트엔드 6기** - Learned core front-end fundamentals through hands-on projects using JavaScript, TypeScript, and React — built SPAs, wrote test code, optimized rendering, and implemented SSR/SSG from scratch. 
 
 - **Opensource Contribution Academy** - ArgoWorkflows Team, Won first place in open source contribution contest 🏆 (2023)
 
