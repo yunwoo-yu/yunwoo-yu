@@ -8,6 +8,8 @@
 
 ### Career
 
+- **Wello** - ProductTeam Front-End Software Engineer (2025.11 ~ ing)
+
 - **Salin** - I-Lab Front-End Software Engineer (2023.08 ~ 2025.08)
 
 - **bluevation** - Web Worked as a Web Publisher. (2022.04 ~ 2022.07)
