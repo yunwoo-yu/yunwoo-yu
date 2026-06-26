@@ -8,7 +8,7 @@
 
 ### Career
 
-- **Wello** - ProductTeam Front-End Software Engineer (2025.11 ~ ing)
+- **Wello** - ProductTeam Front-End Software Engineer (2025.11 ~ 2026.06)
 
 - **Salin** - I-Lab Front-End Software Engineer (2023.08 ~ 2025.08)
 
