@@ -21,7 +21,3 @@
 - **Opensource Contribution Academy** - ArgoWorkflows Team, Won first place in open source contribution contest 🏆 (2023)
 
 - **멋쟁이 사자처럼 Frontend bootcamp 3기** - Served as project team leader, retrospective team leader (2022)
-
----
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skypnal12)](https://solved.ac/skypnal12)
